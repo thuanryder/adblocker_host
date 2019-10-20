@@ -14,4 +14,4 @@
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 tai.go88.com
 0.0.0.0 uniad.phimmoi.net
-0.0.0.0 qcv5.blogtruyen.com
+0.0.0.0 qcv5.blogtruyen.com/Data/data_script/bt_script_load_16_0.js
