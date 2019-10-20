@@ -1,3 +1,8 @@
 0.0.0.0 tai.go88.com
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 az361816.vo.msecnd.net
+0.0.0.0 ad-g.doubleclick.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 ad.mo.doubleclick.net
 0.0.0.0 doubleclick.net
-0.0.0.0 googlesyndication.com
+0.0.0.0 googleads.g.doubleclick.net
