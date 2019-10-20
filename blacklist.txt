@@ -1,1 +1,2 @@
 0.0.0.0 tai.go88.com
+0.0.0.0 doubleclick.net
