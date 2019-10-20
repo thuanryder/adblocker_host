@@ -8,3 +8,4 @@
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 uniad.phimmoi.net
 0.0.0.0 adi.admicro.vn
+0.0.0.0 lg1.logging.admicro.vn
