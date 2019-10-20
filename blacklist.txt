@@ -10,3 +10,4 @@
 0.0.0.0 adi.admicro.vn
 0.0.0.0 lg1.logging.admicro.vn
 0.0.0.0 media1.admicro.vn
+0.0.0.0 mingid.mediacdn.vn
