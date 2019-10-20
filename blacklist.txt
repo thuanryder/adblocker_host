@@ -1,6 +1,7 @@
 0.0.0.0 ad-g.doubleclick.net
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad.mo.doubleclick.net
+0.0.0.0 admicro.vn
 0.0.0.0 adi.admicro.vn
 0.0.0.0 adx.admicro.vn
 0.0.0.0 az361816.vo.msecnd.net
