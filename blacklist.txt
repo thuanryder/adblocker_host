@@ -11,3 +11,4 @@
 0.0.0.0 lg1.logging.admicro.vn
 0.0.0.0 media1.admicro.vn
 0.0.0.0 cdnstoremedia.com
+0.0.0.0 adx.admicro.vn
